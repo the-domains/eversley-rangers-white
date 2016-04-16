@@ -1,0 +1,14 @@
+layout_spectrum: 0.7619048
+typography_spectrum: 0.165486
+color:
+  saturation: 0.3656153
+  brandStrength: 0.9935718
+  lightness: 0.7581454
+  brandColors:
+    - '#6E874B'
+    - '#000101'
+    - '#C5CFF2'
+    - '#E0291D'
+    - '#3A93E0'
+  rhythmicContrast: 0.001985649
+name: Eversley Rangers White
