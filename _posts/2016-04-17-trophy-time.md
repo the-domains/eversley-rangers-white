@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-04-17T15:40:47.073Z'
+datePublished: '2016-04-17T15:42:13.367Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Trophy time
-dateModified: '2016-04-16T06:26:07.675Z'
+dateModified: '2016-04-17T15:41:58.328Z'
 sourcePath: _posts/2016-04-17-trophy-time.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
