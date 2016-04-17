@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eversley Rangers White]]></title>
         <description><![CDATA[Eversley Rangers White]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eversley-rangers-white/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 15:40:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 15:42:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eversley-rangers-white/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trophy time]]></title>
             <description><![CDATA[<article><h1>Trophy time</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20d52c03-aef7-430c-8652-ceeee5e69842.png"></article>]]></description>
-            <link>undefinedtrophy-time/index.html</link>
+            <link>https://thegrid.ai/eversley-rangers-white/trophy-time/index.html</link>
             <guid isPermaLink="false">b56d896f-8f32-4098-a144-cd91eb22f3a7</guid>
-            <pubDate>Sun, 17 Apr 2016 15:40:47 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 15:42:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
